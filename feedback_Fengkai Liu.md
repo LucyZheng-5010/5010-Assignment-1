@@ -11,3 +11,5 @@ But at first glance, it is not very easy to understand, and the code looks a lit
 I think a small chart, diagram, or example image would help people understand it faster.
 You could also make the rules a bit simpler, or show which part is the most important.
 Overall, it’s interesting, but it needs clearer guidance to make it easier to read.
+
+![test](https://github.com/user-attachments/assets/699908b1-0253-4ced-9131-9308ce39b5a3)
